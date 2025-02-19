@@ -138,7 +138,7 @@ for place in places_data:
 
 ### 3.View the Results
 After running, the results will be saved as:
-[mindset_coaches.csv](https://github.com/EugeneMakanga/Apiproject/blob/master/mindset_coaches.csv).
+[mindset_coaches.csv]!(https://github.com/EugeneMakanga/Apiproject/blob/master/mindset_coaches.csv).
 
 ### Thank you for checking out my project.
 
