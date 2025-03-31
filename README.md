@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # google_maps_api
-=======
 # Google Maps API Lead Scraper - Mindset Coaches
 
 ## Overview
@@ -143,4 +142,4 @@ After running, the results will be saved as:
 
 ### Thank you for checking out my project.
 
->>>>>>> 8865e0c (first commit)
+>>>>>>> 8865e0c (commit -hash)
